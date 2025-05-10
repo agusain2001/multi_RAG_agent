@@ -1,0 +1,11 @@
+# .streamlit/config.toml
+
+[global]
+# Don’t spam your logs about missing watchdog; optional but nice.
+disableWatchdogWarning = true
+
+[server]
+# Prevent Streamlit’s hot-reload watcher from ever descending into torch’s C++ extensions.
+folderWatchBlacklist = ["**/torch/**"]
+# You can list other heavy folders here too if you run into similar issues:
+# folderWatchBlacklist = ["**/torch/**", "**/venv/**", "**/.git/**"]

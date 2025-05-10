@@ -1,0 +1,21 @@
+Company Policies
+
+Returns & Refunds:
+- 30-day return window from delivery date
+- Original packaging required
+- Refunds processed within 5 business days
+
+Privacy Policy:
+- We never share customer data with third parties
+- Data encrypted using AES-256 encryption
+- Cookie preferences can be managed in account settings
+
+Terms of Service:
+- Users must be 18+ to create account
+- Prohibited items list available on website
+- Prices subject to change without notice
+
+Shipping Policy:
+- Free shipping on orders over $50
+- International duties not included
+- Lost packages must be reported within 14 days

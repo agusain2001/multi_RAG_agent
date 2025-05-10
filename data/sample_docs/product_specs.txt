@@ -1,0 +1,10 @@
+SmartWatch X200 Technical Specifications
+
+- Display: 1.8" AMOLED touchscreen
+- Battery: 450mAh (7-day battery life)
+- Connectivity: Bluetooth 5.3, WiFi 802.11ac
+- Sensors: Heart rate, GPS, SpO2 monitor
+- Water Resistance: IP68 (5ATM)
+- Compatibility: Android 9+, iOS 13+
+- Warranty: 12 months limited
+- Charging: Wireless Qi-compatible
