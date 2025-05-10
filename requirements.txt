@@ -1,12 +1,15 @@
 
 langchain
-
-langchain-community 
-langchain-huggingface 
-langchain-google-genai
+langchain-community  
+langchain-huggingface
+langchain-google-genai 
+unstructured 
+tiktoken 
 google-generativeai
-faiss-cpu 
+faiss-cpu # Or faiss-gpu if your Streamlit Cloud environment supports and needs GPU
 streamlit
 requests
 sentence-transformers
+python-dotenv
+
 
